@@ -1,0 +1,9 @@
+node_modules
+data
+luts
+quality-test
+*.mp4
+*.db
+.env
+.git
+START.bat
